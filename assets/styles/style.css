@@ -1,5 +1,7 @@
 body {
   font-family: Quicksand,sans-serif;
+  margin: 0px;
+  padding: 0px;
 }
 
 h2,h3 {
@@ -64,4 +66,8 @@ nav li{
 nav{
   background-color: #00a2c6;
   padding: 5px;
+}
+
+main{
+  padding: 20px;
 }
