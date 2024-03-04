@@ -100,5 +100,12 @@ aside{
 *{
   box-sizing: border-box;
 }
-
-
+/**/
+/*@media screen, agar tampilan responsive terhadap ukuran layar, 
+dibawanya bisa diisi elemen mana yang akan dibuat responsive*/
+@media screen and (max-width: 1000px){
+  #content, aside{
+    width: 100%;
+    padding: 0;
+  }
+}
