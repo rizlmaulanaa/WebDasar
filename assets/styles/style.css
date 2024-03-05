@@ -73,7 +73,7 @@ header{
 nav li{
   display: inline;
   list-style-type: disc;
-  margin-right: 10px;
+  margin-left: 10px;
   
 }
 /*warna backgound navigasi*/
